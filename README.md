@@ -102,7 +102,7 @@ The armor values in this modlist are balanced around this mod. The game will be 
 
 <br />**HD Overhaul**<br />
 
-Note: If you get an Extract Error in MO2 at any point, just start manually instaling the Parts and drag them into MO2
+_Note: If you get an Extract Error in MO2 at any point, just start manually instaling the Parts and drag them into MO2_ <br />
 25. Starfield HD Overhaul Part 1-15 https://www.nexusmods.com/starfield/mods/5124?tab=files
 26. Starfield HD Overhaul Textures Patch https://www.nexusmods.com/starfield/mods/5124?tab=files
 25. Starfield HD Overhaul ESM https://www.nexusmods.com/starfield/mods/5124?tab=files
