@@ -171,7 +171,7 @@ The armor values in this modlist are balanced around this mod. The game will be 
 75. Dark Trooper Armor (Shocktroop Replacer) https://www.nexusmods.com/starfield/mods/9473?tab=files<br />
 76. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 77. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
-78. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://www.nexusmods.com/starfield/mods/9471?tab=files
+78. Sith Stalker Armor (Mark 1 Replacer) https://www.nexusmods.com/starfield/mods/9523/?tab=files
 79. Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) https://www.nexusmods.com/starfield/mods/9436?tab=files
 80. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
 81. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
