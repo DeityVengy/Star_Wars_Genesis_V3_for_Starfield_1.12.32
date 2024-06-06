@@ -35,24 +35,25 @@ Please read each mod instruction carefully. They're manually installed in differ
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
    Install just the main file. You can look into doing the optional muscular mando version if you're interested in that. <br />
    DO NOT just drag the "Main - Install First" folder inside your Data folder. This is a common mistake. Please read the instructions.
-3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files
+3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files <br />
+   Put into steamapps\common\Starfield. Delete hotkeys.ini
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
-   I did the Forever Jetpack option but feel free to do any of the other ones.
+   I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
-   Install the RealADS_Sniper one
+   Open RealADS_Sniper. Drag RealADS.txt into steamapps\common\Starfield
 6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
    Install Part 2 Only by putting the Data folder in the archive into steamapps\common\Starfield <br />
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
-   All In One (For all) 1v6 version
+   All In One (For all) 1v6 version. Drag all the contents into steamapps\common\Starfield
 
 ## **Mod Manager Modlist:** <br />
-**Note: This is following the exact load order in Mod Organizer 2 from top to bottom**<br />
+**Note: This is following the exact load order in Mod Organizer 2 from top to bottom. Ignore the mod's instructions and just follow mine. Do Mod Manager Install for all of these**<br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 **Note: Please make sure that if you're upgrading from Genesis 1.0 or using your existing modlist as a base that you MAKE SURE you're checking that all mods are updated.**<br />
 
 **Core**
-1. Plugins.txt Enabler: https://www.nexusmods.com/starfield/mods/4157?tab=files
-2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files&category=archived
+1. Plugins.txt Enabler (SFSE : https://www.nexusmods.com/starfield/mods/4157?tab=files
+2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files
 3. Console Command Runner (Updated): https://www.nexusmods.com/starfield/mods/7318?tab=files
 
 <br />**Gameplay**
