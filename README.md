@@ -27,11 +27,13 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
 5. Version 1.11.36 of Starfield
 
+## **IMPORTANT PRE-STEP**<br />
+If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
-   Drag the contents of sfse_0_2_7 into steamapps\common\Starfield <br />
+   Drag the contents of sfse_0_2_7 into steamapps\common\Starfield
    Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
    Install just the main file. You can look into doing the optional muscular mando version if you're interested in that. <br />
@@ -41,11 +43,11 @@ Please read each mod instruction carefully. They're manually installed in differ
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
-   Open RealADS_Sniper. Drag RealADS.txt into steamapps\common\Starfield
+   Open the RealADS_Sniper folder. Drag RealADS.txt into steamapps\common\Starfield
 6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
-   Install Part 2 Only by putting the Data folder in the archive into steamapps\common\Starfield <br />
-7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
-   All In One (For all) 1v6 version. Drag all the contents into steamapps\common\Starfield
+   Install Part 2 Only by putting the Data folder into steamapps\common\Starfield <br />
+7. Starfield Performance Boost (All In One (For all)): https://www.nexusmods.com/starfield/mods/290?tab=files <br />
+   Drag all the contents into steamapps\common\Starfield
 
 ## **Mod Manager Modlist:** <br />
 **Note: This is following the exact load order in Mod Organizer 2 from top to bottom. Ignore the mod's instructions and just follow mine. Do Mod Manager Install for all of these**<br />
@@ -76,13 +78,16 @@ The armor values in this modlist are balanced around this mod. The game will be 
 10. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
 11. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
    Install Part 1 only as you've already manually installed Part 2
-12. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
-13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
-14. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
-15. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-16. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
+12. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files <br />
+    Select 60 FPS, Slim, and unchecked Vignette<br />
+13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files<br />
+    Manually install and drag the zip into the Mod Organizer 2 download folders. Install normally
+15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+16. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files <br />
+    Manually download the mod. Drag the folder of the pause screen you want to your desktop (Mando for example), compress to a zip folder, drag into MO2. 
+17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
 15. Star Wars Name Replacement Overhaul  https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
-   INSTALL THE OPTIONAL PATCH TOO. YOU MUST DO THIS OR NOTHING IS GOING TO BE NAMED CORRECTLY
+   Install only the main file right now
 17. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 18. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
 19. Starfield Pause Screen Logo Remover https://www.nexusmods.com/starfield/mods/9474/?tab=files
@@ -97,6 +102,7 @@ The armor values in this modlist are balanced around this mod. The game will be 
 
 <br />**HD Overhaul**<br />
 
+Note: If you get an Extract Error in MO2 at any point, just start manually instaling the Parts and drag them into MO2
 25. Starfield HD Overhaul Part 1-15 https://www.nexusmods.com/starfield/mods/5124?tab=files
 26. Starfield HD Overhaul Textures Patch https://www.nexusmods.com/starfield/mods/5124?tab=files
 25. Starfield HD Overhaul ESM https://www.nexusmods.com/starfield/mods/5124?tab=files
