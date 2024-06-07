@@ -36,8 +36,8 @@ Please read each mod instruction carefully. They're manually installed in differ
    Drag the contents of sfse_0_2_7 into steamapps\common\Starfield
    Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
-   Install just the main file. You can look into doing the optional muscular mando version if you're interested in that. <br />
-   DO NOT just drag the "Main - Install First" folder inside your Data folder. This is a common mistake. Please read the instructions.
+   Drag the CONTENTS of "Main- Install First" into Documents\My Games\Starfield\"<br />
+   DO NOT just drag the actual "Main - Install First" folder inside your Data folder. This is a common mistake.
 3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files <br />
    Put into steamapps\common\Starfield. Delete hotkeys.ini
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
