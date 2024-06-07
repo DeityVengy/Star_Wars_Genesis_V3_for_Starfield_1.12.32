@@ -150,8 +150,8 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
    Luke Award Outfit<br />
    Rey Scrapper Outfit<br />
    Sam Solo <br />
-   Lando Outfit - DOWNLOAD FIRST AND THEN DELETE CLASSIC FOLDER. THEN INSTALL <br />
-   Barret Outfit - DOWNLOAD FIRST AND THEN DELETE CLASSIC FOLDER. THEN INSTALL <br />
+   Lando Outfit - DOWNLOAD MANUALLY FIRST AND THEN DELETE CLASSIC FOLDER. THEN DRAG ZIP TO MO2 <br />
+   Barret Outfit - DOWNLOAD MANUALLY FIRST AND THEN DELETE CLASSIC FOLDER. THEN DRAG ZIP TO MO2 <br />
 55. Delgado of Mandalore - Delgado Retexture Only https://www.nexusmods.com/starfield/mods/3146?tab=files
 56. Star Wars Empire Longsleeve Texture https://www.nexusmods.com/starfield/mods/6348?tab=files
 57. Star Wars Prison Scrubs Texture https://www.nexusmods.com/starfield/mods/6383?tab=files
