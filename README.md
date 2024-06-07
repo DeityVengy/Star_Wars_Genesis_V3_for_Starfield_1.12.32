@@ -191,6 +191,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 86. BB Echo Mercury Suit Replacer https://www.nexusmods.com/starfield/mods/9448?tab=files
 87. Star Wars - Mimban Stormtrooper https://www.nexusmods.com/starfield/mods/8965?tab=files
 88. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer https://www.nexusmods.com/starfield/mods/9447?tab=files
+89. Star Wars Snowtrooper https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 <br />**Weapons**<br />
 
