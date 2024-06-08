@@ -192,6 +192,10 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 87. Star Wars - Mimban Stormtrooper https://www.nexusmods.com/starfield/mods/8965?tab=files
 88. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer https://www.nexusmods.com/starfield/mods/9447?tab=files
 89. Star Wars Snowtrooper https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+90. Nomad Armor Star Wars https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
+    Credit to zone79 for the amazing Nomad Armor design
+91. Cad Bane (Star Wars) - Main Mod ONLY - https://www.nexusmods.com/starfield/mods/9537?tab=files
+92. Smuggler Armor 
 
 <br />**Weapons**<br />
 
