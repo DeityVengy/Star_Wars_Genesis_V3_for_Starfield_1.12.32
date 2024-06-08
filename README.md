@@ -195,7 +195,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 90. Nomad Armor Star Wars https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Credit to zone79 for the amazing Nomad Armor design
 91. Cad Bane (Star Wars) - Main Mod ONLY - https://www.nexusmods.com/starfield/mods/9537?tab=files
-92. Smuggler Armor 
+92. Smuggler Armor https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 <br />**Weapons**<br />
 
