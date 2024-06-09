@@ -62,10 +62,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 <br />**Gameplay**
 
 4. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
-5. OPTIONAL - Ascension - Gameplay Overhaul https://www.nexusmods.com/starfield/mods/6839?tab=files <br /> 
-The armor values in this modlist are balanced around this mod. The game will be very easy without this mod and you will have to figure out how to make it challenging and fun yourself if you choose not to install this. If you do choose to install the mod, it will be hard especially in the beginning but also very rewarding. You will have to use cover and can't just run your way through everything. Damage is very realistic and you may die in a few shots but so will your enemies unless you or they have really good armor.  All armor and weapons are static and won't be scaled to you. That means a pistol you pickup at level 2 won't be useless when you're level 10. You can read more details about it in the mod description<br /> 
-*Note: You can still adjust the difficulty and damage ingame with this mod enabled.*<br /> 
-*Note: Please for the love of god if you enable this mod AFTER you tried the game without it, make sure you drag the PLUGIN to it's correct place because by default it'll go to the end of the plugin list and break everything.*
+5. Ascension - Gameplay Overhaul https://www.nexusmods.com/starfield/mods/6839?tab=files <br /> 
+   This mod is no longer optional due to how much custom balancing I've done around it.
 7. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 8. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
 7. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
@@ -73,6 +71,8 @@ The armor values in this modlist are balanced around this mod. The game will be 
 9. Armor Drop Chance - CCR https://www.nexusmods.com/starfield/mods/2978?tab=files <br />
    Select MO2 and 100% drop chance.
 10. POI Cooldown - Fewer Repreated POI's https://www.nexusmods.com/starfield/mods/9532?tab=files
+11. More Mission Board Quests - https://www.nexusmods.com/starfield/mods/5708?tab=files <br />
+    Do manual download and drag in your MO2
 
 <br />**HUD**
 
