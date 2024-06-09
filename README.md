@@ -85,7 +85,7 @@ Please read each mod instruction carefully. They're manually installed in differ
     Select 60 FPS, Slim, and unchecked Vignette<br />
 13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files<br />
     Manually install and drag the zip into the Mod Organizer 2 download folders. Install normally
-15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD "Weapon Icons - AiO (Complete Series)"
 16. Mando Pause Screen https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Drag into MO2 
 17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
@@ -202,7 +202,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 
 <br />**Weapons**<br />
 
-89. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+89. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD "Crimson Fleet Arsenal - Star Wars Weapon Replacer"
 90. Outer Rim Artillery - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8903?tab=files
 91. Arms of Mandalore - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8853?tab=files
 92. Rebel Armaments - Star Wars Weapon Replacer (v1.5 https://www.nexusmods.com/starfield/mods/8696?tab=files
