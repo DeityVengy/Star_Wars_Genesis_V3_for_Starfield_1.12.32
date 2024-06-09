@@ -61,8 +61,9 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 <br />**Gameplay**
 
-4. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
-5. Ascension - Gameplay Overhaul https://www.nexusmods.com/starfield/mods/6839?tab=files <br /> 
+4. Better NPC's https://www.nexusmods.com/starfield/mods/5622?tab=files
+5. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
+6. Ascension - Gameplay Overhaul https://www.nexusmods.com/starfield/mods/6839?tab=files <br /> 
    This mod is no longer optional due to how much custom balancing I've done around it.
 7. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 8. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
@@ -73,6 +74,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 10. POI Cooldown - Fewer Repreated POI's https://www.nexusmods.com/starfield/mods/9532?tab=files
 11. More Mission Board Quests - https://www.nexusmods.com/starfield/mods/5708?tab=files <br />
     Do manual download and drag in your MO2
+12. Pirate Life with Companions https://www.nexusmods.com/starfield/mods/8004?tab=files
 
 <br />**HUD**
 
