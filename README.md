@@ -84,8 +84,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files<br />
     Manually install and drag the zip into the Mod Organizer 2 download folders. Install normally
 15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
-16. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files <br />
-    Manually download the mod. Drag the folder of the pause screen you want to your desktop (Mando for example), compress to a zip folder, drag into MO2. 
+16. Mando Pause Screen https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
+    Drag into MO2 
 17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
 15. Star Wars Name Replacement Overhaul  https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
    Install only the main file right now
