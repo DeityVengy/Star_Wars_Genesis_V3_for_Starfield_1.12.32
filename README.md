@@ -27,12 +27,13 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
 5. Version 1.11.36 of Starfield
 
-## **IMPORTANT PRE-STEP**<br />
-If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
+## **IMPORTANT PRE-STEPS**<br />
+**1. In Mod Organizer 2, go to Tools, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true.**  <----- NEW TO V3 <br />
+2. If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
-1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
+1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <----- UPDATED FOR V3 <br />
    Drag the contents of sfse_0_2_7 into steamapps\common\Starfield
    Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
@@ -44,7 +45,7 @@ Please read each mod instruction carefully. They're manually installed in differ
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Open the RealADS_Sniper folder. Drag RealADS.txt into steamapps\common\Starfield
-6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
+6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <----- UPDATED FOR V3 <br />
    Install Part 2 Only by putting the Data folder into steamapps\common\Starfield <br />
 7. Starfield Performance Boost (All In One (For all)): https://www.nexusmods.com/starfield/mods/290?tab=files <br />
    Drag all the contents into steamapps\common\Starfield
@@ -55,7 +56,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 **Note: Please make sure that if you're upgrading from Genesis 1.0 or using your existing modlist as a base that you MAKE SURE you're checking that all mods are updated.**<br />
 
 **Core**
-1. Plugins.txt Enabler (SFSE : https://www.nexusmods.com/starfield/mods/4157?tab=files 
+1. REMOVE Plugins.txt Enabler   <----- NEW (REMOVE FROM V3)
 2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files <----- UPDATED FOR V3
 3. Console Command Runner (Updated): https://www.nexusmods.com/starfield/mods/7318?tab=files
 
