@@ -25,7 +25,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this
 3. Mod Organizer 2. I cannot recommend Vortex. You WILL have issues and you will either notice them straight away or you will NOT notice them until it's late.
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
-5. Version 1.11.36 of Starfield
+5. Version 1.12.30 of Starfield
 
 ## **IMPORTANT PRE-STEPS**  <----- NEW TO V3 <br /><br />
 1. In Mod Organizer 2, go to Tools, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. <br />
