@@ -55,8 +55,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 **Note: Please make sure that if you're upgrading from Genesis 1.0 or using your existing modlist as a base that you MAKE SURE you're checking that all mods are updated.**<br />
 
 **Core**
-1. Plugins.txt Enabler (SFSE : https://www.nexusmods.com/starfield/mods/4157?tab=files
-2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files
+1. Plugins.txt Enabler (SFSE : https://www.nexusmods.com/starfield/mods/4157?tab=files 
+2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files <----- UPDATED FOR V3
 3. Console Command Runner (Updated): https://www.nexusmods.com/starfield/mods/7318?tab=files
 
 <br />**Gameplay**
