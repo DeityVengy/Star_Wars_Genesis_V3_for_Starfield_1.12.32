@@ -53,7 +53,6 @@ Please read each mod instruction carefully. They're manually installed in differ
 ## **Mod Manager Modlist:** <br />
 **Note: This is following the exact load order in Mod Organizer 2 from top to bottom. Ignore the mod's instructions and just follow mine. Do Mod Manager Install for all of these**<br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
-**Note: Please make sure that if you're upgrading from Genesis 1.0 or using your existing modlist as a base that you MAKE SURE you're checking that all mods are updated.**<br />
 
 ## **Core**
 1. REMOVE Plugins.txt Enabler `<----- REMOVE FROM V3`
