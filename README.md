@@ -254,10 +254,13 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 125. Neon Security Voice Fix [link](https://www.nexusmods.com/starfield/mods/7947?tab=files)
 126. Vasco - Reduced Footsteps Volume by Xtudo [link](https://www.nexusmods.com/starfield/mods/2808?tab=files)
 127. Better Death Physics - No Collision [link](https://www.nexusmods.com/starfield/mods/5600?tab=files)
-128. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
-129. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br />
+128. Remover Default Laser [link](https://www.nexusmods.com/starfield/mods/4303?tab=files) `<----- NEW TO V3` <br />
+     Call the first file "Remove Default Laser" when installing in MO2  <br />
+     Call the second file "Remove Recon Laser" when installing in MO2 <br />
+130. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
+131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br />
      Install the optional file only, as you already installed the main one in the beginning.
-130. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
+132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
