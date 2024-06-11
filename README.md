@@ -61,20 +61,21 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 <br />**Gameplay**
 
-4. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) `<----- NEW TO V3`
-5. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
-6. Ascension - Gameplay Overhaul [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
+4. SKK Fast Start New Game (Alternate Start) [link](https://www.nexusmods.com/starfield/mods/5971?tab=files) `<----- NEW TO V3`
+5. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) `<----- NEW TO V3`
+6. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
+7. Ascension - Gameplay Overhaul [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
    This mod is no longer optional due to how much custom balancing I've done around it.
-7. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
-8. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
-9. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
-10. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
-11. Armor Drop Chance - CCR [link](https://www.nexusmods.com/starfield/mods/2978?tab=files) <br />
+8. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
+9. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
+10. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
+11. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
+12. Armor Drop Chance - CCR [link](https://www.nexusmods.com/starfield/mods/2978?tab=files) <br />
     Select MO2 and 100% drop chance.
-12. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
-13. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files) `<----- NEW TO V3` <br />
+13. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
+14. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files) `<----- NEW TO V3` <br />
     Do manual download and drag in your MO2
-14. Pirate Life with Companions [link](https://www.nexusmods.com/starfield/mods/8004?tab=files) `<----- NEW TO V3`
+15. Pirate Life with Companions [link](https://www.nexusmods.com/starfield/mods/8004?tab=files) `<----- NEW TO V3`
 
 <br />**HUD**
 
@@ -276,8 +277,9 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
 ## **IN-GAME SETUP**<br />
 1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. Then, create a new manual save. Close and the game and check if any plugins on the right side unchecked themselves. If they did, check them and load the new manual save you created. If you close your game again, then the plugins shouldn't uncheck themselves (besides the SFBGS ones) `NEW TO V3`
 2. If loading an existing save, you're going to see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
-3. Make sure your difficulty settings are all on normal
-4. For every new jetpack you equip, you must press F1 to activate the jetpack mod
+3. If loading a new save, pick whether or not you want to be apart of constellation, your starting location, and your loadout. Then click done. Once you've loaded in and you see the new game pop up, restart the game for some additional mods to automatically apply.
+4. Make sure your difficulty settings are all on normal.
+5. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to put the same jetpack on and then press F1 again
    
 ## **Common Problems and Questions**
 1. How do I get the Mandalorian Armor?<br />
