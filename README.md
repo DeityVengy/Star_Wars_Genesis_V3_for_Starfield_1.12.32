@@ -128,6 +128,8 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 37. Coruscant (WIP) [link](https://www.nexusmods.com/starfield/mods/3461?tab=files)
 38. Realistic Stars 4k [link](https://www.nexusmods.com/starfield/mods/2151?tab=files)
 39. Enhanced Starfield Clouds - Full Res [link](https://www.nexusmods.com/starfield/mods/3873?tab=files)
+40. Vanilla Flashlight Improved [link](https://www.nexusmods.com/starfield/mods/701?tab=files) `<----- NEW TO V3` <br />
+    Options - Brighter - Plugin
 
 <br />**Characters**<br />
 
