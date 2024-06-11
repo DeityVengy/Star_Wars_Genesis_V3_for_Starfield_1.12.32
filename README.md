@@ -69,7 +69,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 7. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 8. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
 7. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
-8. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
+8. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files <----- UPDATED FOR V
 9. Armor Drop Chance - CCR https://www.nexusmods.com/starfield/mods/2978?tab=files <br />
    Select MO2 and 100% drop chance.
 10. POI Cooldown - Fewer Repreated POI's https://www.nexusmods.com/starfield/mods/9532?tab=files <----- NEW TO V3
