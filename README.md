@@ -259,7 +259,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
-I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
+I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you. For your sake, save the plugins list as a backup because there is a Mod Organizer 2 bug where launching an existing save jumbles it all up into alphabetic order. This is fixed by loading a save with the plugin load order you want, and then saving on top of it.
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a6fd0902-55c0-49d8-8c78-49c676b51b48)
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/e07b2379-7bfb-4680-a005-04f764291780)
 
@@ -284,12 +284,13 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    player.additem 00226299<br />
    player.additem 0016640A<br />
    player.additem 0016640B<br />
+2. Game Crashing
 3. Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering  Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 4. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files. This is a common problem I hear about often and if you're in this situation, that means you didn't follow the load order above at all. That is just one out of countless issues you're gonna have if you don't follow this load and plugin order.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
-   This used to be an issue with V1 but should not happen at all with V2. If you see this, that means one of your mods is probably the wrong version
+   This used to be an issue with V1 but should not happen at all with V2. If you see this, that means one of your mods is probably the wrong version or your game is outdated.
 6. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. Open console, click them, and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear, and then open console and type enable. Highly recommend saving your game before hand incase you mess something up.
 7. X Mod isn't working. What do i do? <br />
