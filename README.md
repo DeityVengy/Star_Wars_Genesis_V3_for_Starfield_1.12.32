@@ -274,7 +274,7 @@ If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserNa
 Download the StarfieldCustom.ini file in this Github repository and replace yours. You can also find the file [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
    
 ## **IN-GAME SETUP**<br />
-1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. Then, create a new manual save. Close and the game and check if any plugins on the right side unchecked themselves. If they did, check them and load the new manual save you created. If you close your game again, then the plugins shouldn't uncheck themselves (besides the SFBGS ones) `<----- NEW TO V3`
+1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. Then, create a new manual save. Close and the game and check if any plugins on the right side unchecked themselves. If they did, check them and load the new manual save you created. If you close your game again, then the plugins shouldn't uncheck themselves (besides the SFBGS ones) `NEW TO V3`
 2. Make sure your difficulty settings are all on normal
 3. For every new jetpack you equip, you must press F1 to activate the jetpack mod
    
