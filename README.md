@@ -33,7 +33,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
-1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <----- UPDATED FOR V3 <br />
+1. Starfield Script Extender (V0.28) https://www.nexusmods.com/starfield/mods/106?tab=files <----- UPDATED FOR V3 <br />
    Drag the contents of sfse_0_2_7 into steamapps\common\Starfield
    Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
@@ -90,7 +90,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 16. Mando Pause Screen https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Drag into MO2 
 17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
-15. Star Wars Name Replacement Overhaul  https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
+15. Star Wars Name Replacement Overhaul https://www.nexusmods.com/starfield/mods/9421?tab=files <----- UPDATED FOR V3 <br />
    Install only the main file right now
 17. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 18. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
