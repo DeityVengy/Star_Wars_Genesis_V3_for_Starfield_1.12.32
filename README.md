@@ -103,7 +103,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 20. Angry Walk Animation (v1.0) [link](https://www.nexusmods.com/starfield/mods/3434?tab=files)
 21. 3rd Person 1-handed Pistol Animations (v2.0) [link](https://www.nexusmods.com/starfield/mods/5253?tab=files)
 22. Unified Camera - Third Person Tweaks (Option 3 Melee NO ZOOM) (v1.0) [link](https://www.nexusmods.com/starfield/mods/3211?tab=files)
-23. Quick Lowered Weapons (v1.8) [link](https://www.nexusmods.com/starfield/mods/6338?tab=files) <----- UPDATED FOR V3`
+23. Quick Lowered Weapons (v1.8) [link](https://www.nexusmods.com/starfield/mods/6338?tab=files) `<----- UPDATED FOR V3`
 24. Immersive Mantle Animation Speed 50 - No Delay (v1.0) [link](https://www.nexusmods.com/starfield/mods/1543?tab=files)
 
 <br />**HD Overhaul**<br />
