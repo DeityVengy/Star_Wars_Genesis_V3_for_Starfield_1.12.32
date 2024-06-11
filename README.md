@@ -168,7 +168,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 <br />**Armor**<br />
 
 62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files) <br />
-    MAIN FILE ONLY
+    MAIN FILE 2ND OPTION ONLY
 62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files) <br />
     Make sure you download the optional one named accordingly and not the main one
 64. TG's Boba Fett Armor Pack (Starborn Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
