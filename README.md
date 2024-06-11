@@ -279,7 +279,7 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    Coming back to this, I actually cannot recommend this reshade. Has too many depth buffer issues especially in menus. 
    
 ## **IN-GAME SETUP**<br />
-1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. <----- NEW TO V3
+1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. `<----- NEW TO V3`
 2. Make sure your difficulty settings are all on normal
 3. For every new jetpack you equip, you must press F1 to activate the jetpack mod
    
