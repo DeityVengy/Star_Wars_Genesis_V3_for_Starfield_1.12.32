@@ -27,7 +27,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
 5. Version 1.12.30 of Starfield
 
-## **IMPORTANT PRE-STEPS**  <----- NEW TO V3 <br /><br />
+## **IMPORTANT PRE-STEPS**  `<----- NEW TO V3` <br /><br />
 1. In Mod Organizer 2, go to Tools, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. <br />
 2. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 
