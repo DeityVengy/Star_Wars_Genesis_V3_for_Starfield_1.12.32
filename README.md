@@ -18,7 +18,8 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 - Gameplay Enhancements and Bug Fixes<br />
 - Immersive Starting Experience<br />
 - 4k Textures<br />
-- Optional Realism Mode<br />
+- Realistic Damage, Balancing, and Scaling<br />
+- Alternate Start<br />
 
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul to alleviate it.
