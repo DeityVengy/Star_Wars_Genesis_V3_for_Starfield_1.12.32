@@ -275,8 +275,9 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    
 ## **IN-GAME SETUP**<br />
 1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. Then, create a new manual save. Close and the game and check if any plugins on the right side unchecked themselves. If they did, check them and load the new manual save you created. If you close your game again, then the plugins shouldn't uncheck themselves (besides the SFBGS ones) `NEW TO V3`
-2. Make sure your difficulty settings are all on normal
-3. For every new jetpack you equip, you must press F1 to activate the jetpack mod
+2. If loading an existing save, you're going to see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
+3. Make sure your difficulty settings are all on normal
+4. For every new jetpack you equip, you must press F1 to activate the jetpack mod
    
 ## **Common Problems and Questions**
 1. How do I get the Mandalorian Armor?<br />
