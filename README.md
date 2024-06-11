@@ -64,20 +64,21 @@ Please read each mod instruction carefully. They're manually installed in differ
 <br />**Gameplay**
 
 4. SKK Fast Start New Game (Alternate Start) [link](https://www.nexusmods.com/starfield/mods/5971?tab=files) `<----- NEW TO V3`
-5. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) `<----- NEW TO V3`
-6. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
-7. Ascension - Gameplay Overhaul [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
+5. Star Wars Alternate Start [link](https://www.nexusmods.com/starfield/mods/9630?tab=files) `<----- NEW TO V3`
+6. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) `<----- NEW TO V3`
+7. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
+8. Ascension - Gameplay Overhaul [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
    This mod is no longer optional due to how much custom balancing I've done around it.
-8. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
-9. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
-10. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
-11. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
-12. Armor Drop Chance - CCR [link](https://www.nexusmods.com/starfield/mods/2978?tab=files) <br />
+9. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
+10. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
+11. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
+12. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
+13. Armor Drop Chance - CCR [link](https://www.nexusmods.com/starfield/mods/2978?tab=files) <br />
     Select MO2 and 100% drop chance.
-13. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
-14. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files) `<----- NEW TO V3` <br />
+14. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
+15. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files) `<----- NEW TO V3` <br />
     Do manual download and drag in your MO2
-15. Pirate Life with Companions [link](https://www.nexusmods.com/starfield/mods/8004?tab=files) `<----- NEW TO V3`
+16. Pirate Life with Companions [link](https://www.nexusmods.com/starfield/mods/8004?tab=files) `<----- NEW TO V3`
 
 <br />**HUD**
 
