@@ -259,9 +259,9 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
      Call the first file "Remove Default Laser" when installing in MO2  <br />
      Call the second file "Remove Recon Laser" when installing in MO2 <br />
 130. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
-131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br />
+131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) `<----- UPDATED FOR V3`  <br />
      Install the optional file only, as you already installed the main one in the beginning.
-132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
+132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- UPDATED FOR V3` <br />
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
