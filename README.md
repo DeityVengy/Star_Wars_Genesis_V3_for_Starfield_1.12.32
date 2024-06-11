@@ -259,10 +259,13 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
-I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you. For your sake, save the plugins list as a backup because there is a Mod Organizer 2 bug where launching an existing save jumbles it all up into alphabetic order. This is fixed by loading a save with the plugin load order you want, and then saving on top of it.
+I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you. <br />
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a6fd0902-55c0-49d8-8c78-49c676b51b48)
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/e07b2379-7bfb-4680-a005-04f764291780)
-
+<br /> DO NOT LAUNCH YOUR GAME AFTER SETTING UP THIS PLUGIN ORDER. <br />
+YOU MUST:
+1. Create a backup by clicking this button on the right hand side of the plugin menu ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/02e297d8-9ac8-4911-ba21-526ec45ebc16)
+2. Select ALL plugins (shift click works), right click, and choose "Lock load order"
 
 
 ## **Starfield Custom.ini File** <br />
@@ -275,22 +278,24 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    Coming back to this, I actually cannot recommend this reshade. Has too many depth buffer issues especially in menus. 
    
 ## **IN-GAME SETUP**<br />
-1. If you're using hardcore mode/ascension, make sure your difficulty settings are all on normal
-2. For every new jetpack you equip, you must press F1 to activate the jetpack mod
+1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. <----- NEW TO V3
+2. Make sure your difficulty settings are all on normal
+3. For every new jetpack you equip, you must press F1 to activate the jetpack mod
    
-## **F.A.Q.**
+## **Common Problems and Questions**
 1. How do I get the Mandalorian Armor?<br />
    It replaces the Mantis Armor. You can spawn the armor in with these console commands but just know the game will be easier than intended with it. It's an endgame unique armor that goes head to head with Celestial (Starborn) armor and the challenge to get it naturally takes some work now since it requires an Aurebesh translator: <br />
    player.additem 00226299<br />
    player.additem 0016640A<br />
    player.additem 0016640B<br />
-2. Game Crashing
+2. The game is crashing on startup/isn't launching. <br />
+   I'm assuming you updated your game recently. Classic Bethesda issue. Delete starfield.exe in your steamapps folder and then verify your game files through Steam.
 3. Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering  Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 4. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files. This is a common problem I hear about often and if you're in this situation, that means you didn't follow the load order above at all. That is just one out of countless issues you're gonna have if you don't follow this load and plugin order.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
-   This used to be an issue with V1 but should not happen at all with V2. If you see this, that means one of your mods is probably the wrong version or your game is outdated.
+   If you see this, that means one of your mods is probably the wrong version/outdated or your game is the wrong version/outdated. There's usually no other cause. This can also happen on Gamepass and MS Store versions of the game and I can't help you there.
 6. Certain NPC's are missing their heads or aren't converted. How do I fix? <br />
    This happens when you mod existing saves. There are 2 possible solutions. Open console, click them, and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear, and then open console and type enable. Highly recommend saving your game before hand incase you mess something up.
 7. X Mod isn't working. What do i do? <br />
