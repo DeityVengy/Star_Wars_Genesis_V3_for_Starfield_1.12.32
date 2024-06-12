@@ -189,8 +189,8 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) `<----- UPDATED FOR V3`
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
 71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
-72. Star Wars - Purge Trooper (Varuun) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
-73. Trandoshan Mercs Ecliptic Replacer [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
+72. Star Wars - Purge Trooper (Varuun) (1.1) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
+73. Trandoshan Mercs Ecliptic Replacer (1.0) [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
 74. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
 75. Bespin Security Uniform (Trident Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9325?tab=files)
 76. Dark Trooper Armor (Shocktroop Replacer) [link](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
