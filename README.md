@@ -185,7 +185,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 66. Star Wars Constellation Commandos [link](https://www.nexusmods.com/starfield/mods/9417)
 67. Freestar Rebels (v1.3) [link](https://www.nexusmods.com/starfield/mods/7410?tab=files)
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
-69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files)
+69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) `<----- UPDATED FOR V3`
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
 71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
 72. Star Wars - Purge Trooper (Varuun) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
@@ -193,8 +193,10 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 74. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
 75. Bespin Security Uniform (Trident Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9325?tab=files)
 76. Dark Trooper Armor (Shocktroop Replacer) [link](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
-77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files)
-78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files)
+77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`
+78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`  <br />
+    Download these 2 versions: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/175037e4-d28f-4f9b-a7ec-3db8c6dfce01)  <br />
+    For some reason the updated version is causing crashes and I ain't about to deal with that 1 hour before V3 release
 79. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
 80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) `<----- REMOVE FROM V3`
 81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
