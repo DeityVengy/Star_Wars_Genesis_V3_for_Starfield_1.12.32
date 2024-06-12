@@ -285,7 +285,7 @@ YOU MUST:
 2. Select ALL plugins (shift click works), right click, and choose "Lock load order"
 
 
-## **Starfield Custom.ini File** <br />
+## **Starfield Custom.ini File** <br /> `<----- UPDATED FOR V3`
 If you haven't, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
 Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and either copy and paste the contents or replace your existing one  <br />
    
