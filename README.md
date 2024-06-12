@@ -32,6 +32,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 1. Join this [discord](https://discord.gg/ewUVAqyrQX), get roles, and download the installer version of MO2 2.5.2 shown in #dev-builds. Point the install location to your MO2/Starfield folder. If done correctly, it should look like this on the top left your MO2 application: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/a295204a-a7ee-4273-b788-15abf1a65739)
 2. In Mod Organizer 2, go to Tools, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. If it's already on true, just leave it be <br />
 3. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
+4. When updating a mod in MO2, just download as you normally would and click "Replace". DO NOT "Merge".
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
@@ -145,7 +146,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 42. Star Wars Grenades [link](https://www.nexusmods.com/starfield/mods/6774?tab=files)
 43. Star Wars Data Pads [link](https://www.nexusmods.com/starfield/mods/6844?tab=files)
 44. Star Wars Contraband Replacer [link](https://www.nexusmods.com/starfield/mods/7855?tab=files)
-45. Star Wars Credits (Only Credits) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)
+45. Star Wars Credits (Only Credits) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- UPDATED FOR V3`
 46. Star Wars Binoculars [link](https://www.nexusmods.com/starfield/mods/6843?tab=files)
 47. Gonk Trashbins [link](https://www.nexusmods.com/starfield/mods/5523?tab=files)
 48. Star Wars Holocron Snow Globes [link](https://www.nexusmods.com/starfield/mods/6618?tab=files)
@@ -202,10 +203,10 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
 82. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
 83. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
-84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files)
-85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files)
+84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) `<----- UPDATED FOR V3`
+85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) `<----- UPDATED FOR V3`
 86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
-87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files)
+87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) `<----- UPDATED FOR V3`
 88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
 89. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
 90. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
