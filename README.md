@@ -81,7 +81,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 14. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
 15. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files) `<----- NEW TO V3` <br />
     Do manual download and drag in your MO2
-16. Pirate Life with Companions [link](https://www.nexusmods.com/starfield/mods/8004?tab=files) `<----- NEW TO V3`
+16. No Angry Companions [link](https://www.nexusmods.com/starfield/mods/9524?tab=files) `<----- NEW TO V3`
 
 <br />**HUD**
 
