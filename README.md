@@ -24,7 +24,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul to alleviate it.
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass and MS Store version and some of them straight up aren't compatible. You are completely on your own unfortunately if you choose to go through it knowing this
-3. Mod Organizer 2.5.0 I cannot recommend Vortex. You WILL have issues and you will either notice them straight away or you will NOT notice them until it's too late. If done correctly, you should see  and downDownload the latest release version of Mod Organizer 2 from [here](https://github.com/Modorganizer2/modorganizer/releases) and choose a portable install for Starfield
+3. Mod Organizer 2.5.0. I cannot recommend Vortex. You WILL have issues and you will either notice them straight away or you will NOT notice them until it's too late. If done correctly, you should see  and downDownload the latest release version of Mod Organizer 2 from [here](https://github.com/Modorganizer2/modorganizer/releases) and choose a portable install for Starfield
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. V3 now features an alternate start mod themed around this modlist. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
 5. Version 1.12.30 of Starfield
 
