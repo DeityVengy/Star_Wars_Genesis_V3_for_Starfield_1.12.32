@@ -56,6 +56,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 **Note: This is following the exact load order in Mod Organizer 2 from top to bottom. Ignore the mod's instructions and just follow mine. Do Mod Manager Install for all of these**<br />
 **Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would**<br />
 
+**Please make sure you download the correct version shown in the parentheses.**
+
 ## **Core**
 1. REMOVE Plugins.txt Enabler `<----- REMOVE FROM V3`
 2. Address Library for SFSE Plugins (v12): [link](https://www.nexusmods.com/starfield/mods/3256/?tab=files) `<----- UPDATED FOR V3`
@@ -180,7 +182,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 64. TG's Boba Fett Armor Pack (Starborn Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
     I will delete this once TG updates her mod. My mod is a combination of her main mod and 3 optional changes on it.
 65. Star Wars Ground Crew Rebel Pilot [link](https://www.nexusmods.com/starfield/mods/6078?tab=files)
-66. Star Wars Constellation Commandos WIP (fixed by me) [link](https://www.nexusmods.com/starfield/mods/9417)
+66. Star Wars Constellation Commandos [link](https://www.nexusmods.com/starfield/mods/9417)
 67. Freestar Rebels (v1.3) [link](https://www.nexusmods.com/starfield/mods/7410?tab=files)
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
 69. AT-ST Enemies (v1.02) [link](https://www.nexusmods.com/starfield/mods/8022?tab=files)
@@ -195,19 +197,19 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files)
 79. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
 80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) `<----- REMOVE FROM V3`
-81. Star Wars Bounty Hunter Pack [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
+81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
 82. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
-83. Boba Fet 1313 [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
+83. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
 84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files)
 85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files)
 86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
 87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files)
-88. Star Wars - Mimban Stormtrooper [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
+88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
 89. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
 90. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
 91. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3` <br />
     Credit to zone79 for the amazing Nomad Armor design
-92. Cad Bane (Star Wars) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) `<----- NEW TO V3`
+92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) `<----- NEW TO V3`
 93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
 
 <br />**Weapons**<br />
