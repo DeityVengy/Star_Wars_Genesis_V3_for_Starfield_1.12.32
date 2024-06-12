@@ -281,8 +281,8 @@ YOU MUST:
 
 
 ## **Starfield Custom.ini File** <br />
-If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
-Download the StarfieldCustom.ini file in this Github repository and replace yours. You can also find the file [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
+If you haven't, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
+Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and either copy and paste the contents or replace your existing one  <br />
    
 ## **IN-GAME SETUP**<br />
 1. If loading an existing save and a pop asking about load order pops up, make sure you click CURRENT. Then, create a new manual save. Close and the game and check if any plugins on the right side unchecked themselves. If they did, check them and load the new manual save you created. If you close your game again, then the plugins shouldn't uncheck themselves (besides the SFBGS ones) `NEW TO V3`
