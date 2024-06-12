@@ -223,7 +223,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 91. Arms of Mandalore - Star Wars Weapon Replacer (v1.3) [link](https://www.nexusmods.com/starfield/mods/8853?tab=files)
 92. Rebel Armaments - Star Wars Weapon Replacer (v1.5) [link](https://www.nexusmods.com/starfield/mods/8696?tab=files)
 93. Imperial Armaments - Star Wars Weapon Replacer (v1.3) [link](https://www.nexusmods.com/starfield/mods/8775?tab=files)
-94. Star Wars Melee Weapon Replacer All in One (v1.1) [link](https://www.nexusmods.com/starfield/mods/9016?tab=files)
+94. Star Wars Melee Weapon Replacer All in One (v1.2) [link](https://www.nexusmods.com/starfield/mods/9016?tab=files) 
 
 <br />**Sounds**<br />
 
