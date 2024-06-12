@@ -185,7 +185,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 66. Star Wars Constellation Commandos [link](https://www.nexusmods.com/starfield/mods/9417)
 67. Freestar Rebels (v1.3) [link](https://www.nexusmods.com/starfield/mods/7410?tab=files)
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
-69. AT-ST Enemies (v1.02) [link](https://www.nexusmods.com/starfield/mods/8022?tab=files)
+69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files)
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
 71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
 72. Star Wars - Purge Trooper (Varuun) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
