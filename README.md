@@ -114,7 +114,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 <br />**HD Overhaul**<br />
 
 _Note: If you get an Extract Error in MO2 at any point, just start manually installing the Parts and drag them into MO2_ <br />
-25. Starfield HD Overhaul Part 1-15 [link](https://www.nexusmods.com/starfield/mods/5124?tab=files)<br />
+25. Starfield HD Overhaul Part 1-16 [link](https://www.nexusmods.com/starfield/mods/5124?tab=files)<br />
 26. Starfield HD Overhaul Textures Patch [link](https://www.nexusmods.com/starfield/mods/5124?tab=files)<br />
 27. Starfield HD Overhaul ESM [link](https://www.nexusmods.com/starfield/mods/5124?tab=files)<br />
 28. 4k Beards [link](https://www.nexusmods.com/starfield/mods/615?tab=files)<br />
