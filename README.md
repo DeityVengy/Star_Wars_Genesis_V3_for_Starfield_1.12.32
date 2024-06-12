@@ -196,7 +196,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`
 78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`  <br />
     Download these 2 versions: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/175037e4-d28f-4f9b-a7ec-3db8c6dfce01)  <br />
-    For some reason the updated version is causing crashes and I ain't about to deal with that 1 hour before V3 release
+    For some reason the updated version is causing savegame crashes and I ain't about to deal with that 1 hour before V3 release
 79. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
 80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) `<----- REMOVE FROM V3`
 81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
