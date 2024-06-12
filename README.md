@@ -200,7 +200,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 83. Boba Fet 1313 [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
 84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files)
 85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files)
-86. Star Wars - BB Echo Armor [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
+86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
 87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files)
 88. Star Wars - Mimban Stormtrooper [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
 89. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
