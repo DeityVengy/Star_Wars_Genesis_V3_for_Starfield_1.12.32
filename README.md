@@ -317,8 +317,9 @@ Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive
 8. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
    Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it. No one can contact the original owner. But for some reason I'm not allowed to fix it. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... To be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and reuploaded freely and I have multiple backups of all files in this modlist so that Star Wars Genesis is never held hostage by deleted mods. I try my best to get permission from every single custom mod I do but there will be cases of miscommunication/disagreement so if any mod author feels that I've stolen their Star Wars asset, feel free to DM me on Discord and we can work things out. If your mod is well-made, I don't mind buying the rights to modify it like I've done with Akasyan's Neocrusader mod.
    
-## **Gameplay (Click the Picture)**<br />
-[![Star Wars Genesis V2: Total Conversion Modlist for Starfield](https://i.ytimg.com/vi/7G8ru-d8oSA/maxresdefault.jpg)](https://www.youtube.com/watch?v=7G8ru-d8oSA "Star Wars Genesis V2: Total Conversion Modlist for Starfield")
+## **Gameplay**<br />
+[![Star Wars Genesis V3: Total Conversion Modlist for Starfield](https://res.cloudinary.com/marcomontalbano/image/upload/v1718193439/video_to_markdown/images/youtube--kwS_D4jWfps-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kwS_D4jWfps "Star Wars Genesis V3: Total Conversion Modlist for Starfield")
+[![Star Wars Genesis V2: Total Conversion Modlist for Starfield](https://res.cloudinary.com/marcomontalbano/image/upload/v1718193457/video_to_markdown/images/youtube--7G8ru-d8oSA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7G8ru-d8oSA "Star Wars Genesis V2: Total Conversion Modlist for Starfield")
 
 
 
