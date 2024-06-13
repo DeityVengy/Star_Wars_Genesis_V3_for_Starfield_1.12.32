@@ -277,7 +277,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 
 ## **Plugins Load Order:**<br />
 I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you. <br />
-![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/b7bd170f-4d06-42b3-b9b1-de9af379fcb2)
+![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/c187e66b-c055-481d-a33f-73b5e32ef592)
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/3dd1faba-5bfa-4cca-80a7-ae0f260424e5)
 <br /> DO NOT LAUNCH YOUR GAME AFTER SETTING UP THIS PLUGIN ORDER. <br />
 YOU MUST:
