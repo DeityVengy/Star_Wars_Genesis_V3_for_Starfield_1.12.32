@@ -266,9 +266,10 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 125. Neon Security Voice Fix [link](https://www.nexusmods.com/starfield/mods/7947?tab=files)
 126. Vasco - Reduced Footsteps Volume by Xtudo [link](https://www.nexusmods.com/starfield/mods/2808?tab=files)
 127. Better Death Physics - No Collision [link](https://www.nexusmods.com/starfield/mods/5600?tab=files)
-128. Remover Default Laser [link](https://www.nexusmods.com/starfield/mods/4303?tab=files) `<----- NEW TO V3` <br />
+128. Default Laser Remover [link](https://www.nexusmods.com/starfield/mods/4303?tab=files)  <br />
      Call the first file "Remove Default Laser" when installing in MO2  <br />
      Call the second file "Remove Recon Laser" when installing in MO2 <br />
+     Don't download any other file <br />
 130. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
 131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) `<----- UPDATED FOR V3`  <br />
      Install the optional file only, as you already installed the main one in the beginning.
