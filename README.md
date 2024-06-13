@@ -39,7 +39,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 1. Starfield Script Extender (V0.28) [link](https://www.nexusmods.com/starfield/mods/106?tab=files) `<----- UPDATED FOR V3` <br />
    Drag the contents of sfse_0_2_7 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
-2. Mandalorian Collection Mesh Texture Edits: [link](https://www.nexusmods.com/starfield/mods/6043?tab=files)<br />
+2. Mandalorian Collection Mesh Texture Edits (v2): [link](https://www.nexusmods.com/starfield/mods/6043?tab=files)<br />
    Drag the CONTENTS of "Main- Install First" into Documents\My Games\Starfield\ <br />
    DO NOT just drag the actual "Main - Install First" folder inside your Data folder. This is a common mistake.
 3. Starfield Hotkeys: [link](https://www.nexusmods.com/starfield/mods/1578?tab=files) <br />
@@ -75,7 +75,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 9. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
 10. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
 11. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
-12. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
+12. BAKA Hold to Sprint (v3) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
 13. Armor Drop Chance - CCR [link](https://www.nexusmods.com/starfield/mods/2978?tab=files) <br />
     Select MO2 and 100% drop chance.
 14. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
