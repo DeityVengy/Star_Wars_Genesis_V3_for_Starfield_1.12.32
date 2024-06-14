@@ -29,7 +29,7 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 
 ## **IMPORTANT PRE-STEPS**  `<----- NEW TO V3` <br />
 1. Join this [discord](https://discord.gg/ewUVAqyrQX), get roles, and download the installer version of MO2 2.5.2 shown in #dev-builds. Point the install location to your MO2/Starfield folder. If done correctly, it should look like this on the top left your MO2 application: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/a295204a-a7ee-4273-b788-15abf1a65739)
-2. In Mod Organizer 2, go to Tools, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. If it's already on true, just leave it be <br />
+2. In Mod Organizer 2, go to Tools, Settings, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. If it's already on true, just leave it be <br />
 3. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 4. When updating a mod in MO2, just download as you normally would and click "Replace". DO NOT "Merge".
 
