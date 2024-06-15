@@ -175,10 +175,10 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 
 <br />**Armor**<br />
 
-62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files) <br />
-    MAIN FILE 2ND OPTION ONLY
-62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files) <br />
-    Make sure you download the optional one named accordingly and not the main one
+62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files&file_id=35577) <br />
+    Drag into your MO2 Downloads folder and install
+62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files&file_id=36112) <br />
+    Drag into your MO2 Downloads folder and install
 64. TG's Boba Fett Armor Pack (Starborn Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
     I will delete this once TG updates her mod. My mod is a combination of her main mod and 3 optional changes on it.
 65. Star Wars Ground Crew Rebel Pilot [link](https://www.nexusmods.com/starfield/mods/6078?tab=files)
@@ -187,32 +187,33 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
 69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) `<----- UPDATED FOR V3`
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
-71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
-72. Star Wars - Purge Trooper (Varuun) (1.1) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
-73. Trandoshan Mercs Ecliptic Replacer (1.0) [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
-74. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
-75. Bespin Security Uniform (Trident Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9325?tab=files)
-76. Dark Trooper Armor (Shocktroop Replacer) [link](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
-77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`
-78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`  <br />
+71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files&file_id=35578)
+    Drag into your MO2 Downloads folder and install
+73. Star Wars - Purge Trooper (Varuun) (1.1) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
+74. Trandoshan Mercs Ecliptic Replacer (1.0) [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
+75. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
+76. Bespin Security Uniform (Trident Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9325?tab=files)
+77. Dark Trooper Armor (Shocktroop Replacer) [link](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
+78. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`
+79. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`  <br />
     Download these 2 versions: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/175037e4-d28f-4f9b-a7ec-3db8c6dfce01)  <br />
     For some reason the updated version is causing savegame crashes and I ain't about to deal with that 1 hour before V3 release
-79. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
-80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) `<----- REMOVE FROM V3`
-81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
-82. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
-83. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
-84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) `<----- UPDATED FOR V3`
-85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) `<----- UPDATED FOR V3`
-86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
-87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) `<----- UPDATED FOR V3`
-88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
-89. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
-90. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
-91. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3` <br />
+80. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
+81. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) `<----- REMOVE FROM V3`
+82. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
+83. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
+84. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
+85. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) `<----- UPDATED FOR V3`
+86. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) `<----- UPDATED FOR V3`
+87. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
+88. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) `<----- UPDATED FOR V3`
+89. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
+90. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
+91. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
+92. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3` <br />
     Credit to zone79 for the amazing Nomad Armor design
-92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) `<----- NEW TO V3`
-93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
+93. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) `<----- NEW TO V3`
+94. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
 
 <br />**Weapons**<br />
 
