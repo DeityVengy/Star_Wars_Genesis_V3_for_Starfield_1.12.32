@@ -35,8 +35,8 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
-1. Starfield Script Extender (V0.28) [link](https://www.nexusmods.com/starfield/mods/106?tab=files) `<----- UPDATED FOR V3` <br />
-   Drag the contents of sfse_0_2_7 into steamapps\common\Starfield <br />
+1. Starfield Script Extender (V0.29) [link](https://www.nexusmods.com/starfield/mods/106?tab=files) `<----- UPDATED FOR V3` <br />
+   Drag the contents of sfse_0_2_9 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
 2. Mandalorian Collection Mesh Texture Edits (v2): [link](https://www.nexusmods.com/starfield/mods/6043?tab=files)<br />
    Drag the CONTENTS of "Main- Install First" into Documents\My Games\Starfield\ <br />
@@ -60,7 +60,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 ## **Core**
 1. REMOVE Plugins.txt Enabler `<----- REMOVE FROM V3`
-2. Address Library for SFSE Plugins (v12): [link](https://www.nexusmods.com/starfield/mods/3256/?tab=files) `<----- UPDATED FOR V3`
+2. Address Library for SFSE Plugins (v13): [link](https://www.nexusmods.com/starfield/mods/3256/?tab=files) `<----- UPDATED FOR V3`
 3. Console Command Runner (Updated): [link](https://www.nexusmods.com/starfield/mods/7318?tab=files)
 
 <br />**Gameplay**
