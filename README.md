@@ -71,7 +71,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 7. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
 8. Ascension - Gameplay Overhaul [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
    This mod is no longer optional due to how much custom balancing I've done around it.
-9. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
+9. Perks Increase Aim Down Sight Accuracy (v1.2) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
 10. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
 11. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
 12. BAKA Hold to Sprint (v3) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
