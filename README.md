@@ -70,7 +70,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 6. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) `<----- NEW TO V3`
 7. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
 8. Ascension - Gameplay Overhaul (1.4.5) [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
-   This mod is no longer optional due to how much custom balancing I've done around it.
+   MAKE SURE YOU GET THE RIGHT VERSION PLEASE PLEASE PLEASE
 9. Perks Increase Aim Down Sight Accuracy (v1.2) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
 10. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
 11. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
