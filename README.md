@@ -166,11 +166,11 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
     - Barret Outfit - DOWNLOAD MANUALLY FIRST AND THEN DELETE CLASSIC FOLDER. THEN DRAG ZIP TO MO2
 55. Delgado of Mandalore - Delgado Retexture Only [link](https://www.nexusmods.com/starfield/mods/3146?tab=files)
 56. Star Wars Empire Longsleeve Texture [link](https://www.nexusmods.com/starfield/mods/6348?tab=files)
-57. Star Wars Prison Scrubs Texture [link](https://www.nexusmods.com/starfield/mods/6383?tab=files)
+57. Star Wars Prison Scrubs Texture (1.3) [link](https://www.nexusmods.com/starfield/mods/6383?tab=files)
 58. RTM's Neon Businesswear Retexture [link](https://www.nexusmods.com/starfield/mods/9154?tab=files)
 59. Rebel Jacket - Dark Brown (Noel's Outfit) [link](https://www.nexusmods.com/starfield/mods/5826?tab=files)
 60. Striker Leather Coat (Dark Brown) [link](https://www.nexusmods.com/starfield/mods/7710?tab=files) `<----- REMOVE FROM V3`
-61. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) `<----- NEW TO V3`
+61. Sith Lord Robes (1.6) [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) `<----- NEW TO V3`
 62. Striker Gang Outfit Replacer (Black Robes) [link] (https://www.nexusmods.com/starfield/mods/9635?tab=files) `<----- NEW TO V3`
 
 <br />**Armor**<br />
