@@ -235,8 +235,6 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 100. Star Wars Concussion Missile Sound Replacement for Atlatl 270 and 280 (v1.0) [link](https://www.nexusmods.com/starfield/mods/3002?tab=files)
 101. Star Wars Tie Fighter Cannon Sound Replacement for PB-300 and PBO-300 Cannons (v1.0) [link](https://www.nexusmods.com/starfield/mods/2262?tab=files)
 102. Star Wars A Wing Sound Replacement for KE-20 AND KE-31 Cannons (v1.0) [link](https://www.nexusmods.com/starfield/mods/2581?tab=files)
-103. AMUN Engines STAR WARS (v1.0) [link](https://www.nexusmods.com/starfield/mods/8522?tab=files)
-104. NOVA Engines STAR WARS (v1.0) [link](https://www.nexusmods.com/starfield/mods/8526?tab=files)
 105. No Grav Jump Music (Muted - Silent - No overlapping Sounds) [link](https://www.nexusmods.com/starfield/mods/609?tab=files)
 106. No Interplanetary Travel Music [link](https://www.nexusmods.com/starfield/mods/4622?tab=files)
 107. Hyperspace SFX - Grav Jump Replace [link](https://www.nexusmods.com/starfield/mods/2234?tab=files)
