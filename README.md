@@ -3,6 +3,8 @@
 
 This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
 
+## **ATTENTION**<br />
+Star Wars Genesis V4 is releasing on or before July 9 and will be automated through Wabbajack. It's up to you if you want to follow through with this lengthy install process knowing this information.
 
 ## **Overview:**<br />
 - Complete Sound and Music Overhaul<br />
