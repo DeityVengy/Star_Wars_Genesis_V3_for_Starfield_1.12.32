@@ -143,7 +143,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 
 <br />**Textures**<br />
 
-41. BD-1 Vasco [link](https://www.nexusmods.com/starfield/mods/8235?tab=files)
+41. BD-1 Vasco (1.0) [link](https://www.nexusmods.com/starfield/mods/8235?tab=files)
 42. Star Wars Grenades [link](https://www.nexusmods.com/starfield/mods/6774?tab=files)
 43. Star Wars Data Pads [link](https://www.nexusmods.com/starfield/mods/9732?tab=files) `<----- UPDATED FOR V3`
 44. Star Wars Contraband Replacer [link](https://www.nexusmods.com/starfield/mods/7855?tab=files)
